@@ -123,5 +123,6 @@ input {
 
  button:active {
   box-shadow: inset .5rem .5rem darkslateblue;
+  transform: translate(1rem, 1rem);
 }
 
